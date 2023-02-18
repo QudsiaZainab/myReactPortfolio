@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/QudsiaZainab/myReactPortfolio/static/css/main.2c4403c6.css",
+    "main.js": "/QudsiaZainab/myReactPortfolio/static/js/main.b53ec373.js",
+    "static/media/Screenshot 2022-08-18 094953.png": "/QudsiaZainab/myReactPortfolio/static/media/Screenshot 2022-08-18 094953.44ce9b601de9c5f61d3b.png",
+    "static/media/Screenshot 2022-08-23 110153.png": "/QudsiaZainab/myReactPortfolio/static/media/Screenshot 2022-08-23 110153.db574b78e481a2e08a6f.png",
+    "static/media/Screenshot 2022-08-19 094948.png": "/QudsiaZainab/myReactPortfolio/static/media/Screenshot 2022-08-19 094948.94617ea068cbfb73b45c.png",
+    "static/media/OPN-Snake---Ladder-1570449417985_16da6146703_large.jpg": "/QudsiaZainab/myReactPortfolio/static/media/OPN-Snake---Ladder-1570449417985_16da6146703_large.77430da568d2bd7a0b50.jpg",
+    "static/media/Screenshot 2022-08-19 101625.png": "/QudsiaZainab/myReactPortfolio/static/media/Screenshot 2022-08-19 101625.2518883a53cc8e66e348.png",
+    "static/media/1_L3AlGT_fXpWTOoJ6zztYCA.jpeg": "/QudsiaZainab/myReactPortfolio/static/media/1_L3AlGT_fXpWTOoJ6zztYCA.c0bfcb9192ec7d27ce74.jpeg",
+    "index.html": "/QudsiaZainab/myReactPortfolio/index.html",
+    "main.2c4403c6.css.map": "/QudsiaZainab/myReactPortfolio/static/css/main.2c4403c6.css.map",
+    "main.b53ec373.js.map": "/QudsiaZainab/myReactPortfolio/static/js/main.b53ec373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c4403c6.css",
+    "static/js/main.b53ec373.js"
+  ]
+}
